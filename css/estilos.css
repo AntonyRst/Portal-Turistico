@@ -1,0 +1,8 @@
+.navbar{
+    background-color:green;
+    color: aliceblue;
+}
+
+.navbar li a {
+    color: aliceblue;
+}
